@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fcdelacour@gmail.com
+	name = Francois Clair Delacour
